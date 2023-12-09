@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C4E16AQE6R9iYViMGBw/profile-displaybackgroundimage-shrink_200_800/0/1654896323182?e=2147483647&v=beta&t=vsRL8UEkhA9Rvce0-_obhCE5-Rg0vhf4N8W2Yz-e8Z0" alt="logo" style="display: block; margin: auto;">
+![logo](https://github.com/Manikantanaidu1729/Manikantanaidu1729/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Jaggurothu Manikantanaidu</h1>
 <h3 align="center">Aspiring Towards a Future in Data Analytics, Data Science, or Business Analysis</h3>
 
