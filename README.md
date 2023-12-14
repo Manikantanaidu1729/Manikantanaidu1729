@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikantanaidu1729&label=Profile%20views&color=0e75b6&style=flat" alt="manikantanaidu1729" /> </p>
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
-- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Manikanta-naidu-Jaggurothu](https://codebasics.io/portfolio/Manikanta-naidu-Jaggurothu)
+- 👨‍💻 [Portfolio](https://codebasics.io/portfolio/Manikanta-naidu-Jaggurothu)
 
 - 💬 Ask me about **Excel, Power Bi, SQL, Python**
 
